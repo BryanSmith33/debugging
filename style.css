@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Lobster', cursive;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 100;
+}
